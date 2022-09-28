@@ -1,0 +1,106 @@
+.pagination button {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+}
+
+/* Style the active/current link */
+.pagination button.active {
+  background-color: dodgerblue;
+  color: white;}
+  .button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: "none";
+    display: inline-block;
+    font-size: 16px;
+  }
+
+
+/* Add a grey background color on mouse-over */
+.pagination button:hover:not(.active) {
+  background-color: #ddd;
+}
+.b1{
+  margin-top: 100px;
+    margin-left: 400px;
+    
+   
+    color: rgb(1, 0, 0);
+    
+    text-align: center;
+    text-decoration: none;
+    
+    font-size: 16px;
+    
+}
+.b2{
+  margin-top: 20px;
+  margin-left: 400px;
+  
+  color: rgb(1, 0, 0);
+  
+  text-align: center;
+  text-decoration: none;
+  
+  font-size: 16px;
+  
+}
+.b22{
+  margin-left: 414px;
+  
+  color: rgb(1, 0, 0);
+  
+  text-align: center;
+  text-decoration: none;
+  
+  font-size: 16px;
+  
+}
+.b3{
+  margin-top: 20px;
+  margin-left: 400px;
+  color: rgb(1, 0, 0);
+  
+  text-align: center;
+  text-decoration: none;
+  
+  font-size: 16px;
+  
+}
+.b33{
+  margin-left: 415px;
+  color: rgb(1, 0, 0);
+  
+  text-align: center;
+  text-decoration: none;
+  
+  font-size: 16px;
+  
+}
+.b4{margin-top: 20px;
+  margin-left: 400px;
+  color: rgb(1, 0, 0);
+  
+  text-align: center;
+  text-decoration: none;
+  
+  font-size: 16px;
+  
+}
+.b44{
+  margin-bottom:100px ;
+  margin-left: 395px;
+  color: rgb(1, 0, 0);
+  
+  text-align: center;
+  text-decoration: none;
+  
+  font-size: 16px;
+  
+}
